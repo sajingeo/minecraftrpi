@@ -1,3 +1,7 @@
+#
+#  Author :Sajin George
+# web :mycrobonics.com
+#  free to use    
 import minecraft.minecraft as minecraft
 import minecraft.block as block
 import time
